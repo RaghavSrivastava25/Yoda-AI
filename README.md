@@ -41,6 +41,7 @@ Download and configure the desired language models, embeddings, and vector datab
 Usage
 
 Navigate to the project directory:
+
 cd Yoda-AI
 
 Explore the provided example scripts and notebooks to understand different application scenarios and techniques.
