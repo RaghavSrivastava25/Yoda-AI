@@ -1,8 +1,8 @@
-# Yoda-AI
+# Morph-AI
 
-# Yoda AI: Language Learning Models for Intelligent Applications
+# Morph AI: Language Learning Models for Intelligent Applications
 
-Yoda AI is a project that harnesses the power of Language Learning Models (LLMs) and AI tools to enable intelligent applications that involve conversing with documents, web searches, and interactive GPT-based chatbots. The project integrates LLMs from GPT-4, Llama, OpenAI, Hugging Face, along with vector databases like Chroma and FAISS, to create a suite of AI tools for diverse applications.
+Morph AI is a project that harnesses the power of Language Learning Models (LLMs) and AI tools to enable intelligent applications that involve conversing with documents, web searches, and interactive GPT-based chatbots. The project integrates LLMs from GPT-4, Llama, OpenAI, Hugging Face, along with vector databases like Chroma and FAISS, to create a suite of AI tools for diverse applications.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,25 +14,25 @@ Yoda AI is a project that harnesses the power of Language Learning Models (LLMs)
 
 ## Introduction
 
-Yoda AI is a Python-based project that showcases the potential of Language Learning Models (LLMs) for building intelligent applications. By utilizing LLMs such as GPT-4, Llama, OpenAI, and Hugging Face models, coupled with vector databases like Chroma and FAISS, Yoda AI empowers developers to create a wide range of applications that span from advanced document-based conversations to dynamic web searches and interactive GPT chatbots.
+Morph AI is a Python-based project that showcases the potential of Language Learning Models (LLMs) for building intelligent applications. By utilizing LLMs such as GPT-4, Llama, OpenAI, and Hugging Face models, coupled with vector databases like Chroma and FAISS, Yoda AI empowers developers to create a wide range of applications that span from advanced document-based conversations to dynamic web searches and interactive GPT chatbots.
 
 ## Key Features
 
-- **Advanced Conversations with Documents:** Yoda AI enables users to interact with documents using natural language queries. It leverages LLMs to comprehend context and deliver meaningful responses.
+- **Advanced Conversations with Documents:** Morph AI enables users to interact with documents using natural language queries. It leverages LLMs to comprehend context and deliver meaningful responses.
 
-- **Web Search and Data Extraction:** With the ability to perform web searches and extract information from search results, Yoda AI offers a dynamic approach to answering questions.
+- **Web Search and Data Extraction:** With the ability to perform web searches and extract information from search results, Morph AI offers a dynamic approach to answering questions.
 
 - **Interactive GPT-Based Chatbots:** The project provides a foundation for creating chatbots that employ LLMs to engage in conversations with users, delivering contextually relevant responses.
 
-- **Modular Architecture:** Yoda AI is designed with modularity in mind. Developers can easily switch between different LLMs, vector databases, and tools to suit specific application requirements.
+- **Modular Architecture:** Morph AI is designed with modularity in mind. Developers can easily switch between different LLMs, vector databases, and tools to suit specific application requirements.
 
 ## Setup
 
 Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Yoda-AI.git
-   cd Yoda-AI
+   git clone https://github.com/your-username/Morph-AI.git
+   cd Morph-AI
 
 Install the required dependencies:
 pip install -r requirements.txt
